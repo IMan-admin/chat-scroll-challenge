@@ -37,14 +37,18 @@ Your solution will be scored primarily on how closely it matches the reference. 
 
 ### Deployed URL
 
-[Live Demo](https://your-deployed-url.com)
+Replace the placeholder below with your live deployed app URL.
+[Live Demo - Replace with your deployed URL](https://your-deployed-url.com)
 
 ### Screen Recordings
+Replace each placeholder below with your submitted recording link.  
+You must submit **all 4 recordings**.
 
-- **Scenario 1 (Basic Auto-Scroll):** [Watch Recording](https://your-recording/scenario1)
-- **Scenario 2 (Pause on Manual Scroll):** [Watch Recording](https://your-hrecording/scenario2)
-- **Scenario 3 (Send While Scrolled Up):** [Watch Recording](https://your-recording/scenario3)
-- **Scenario 4 (Resume Auto-Scroll After Scroll Down):** [Watch Recording](https://your-recording/scenario4)
+
+- **Scenario 1 (Basic Auto-Scroll):** [Watch Recording - Replace with your Scenario 1 link](https://your-recording-link.com/scenario1)
+- **Scenario 2 (Pause on Manual Scroll):** [Watch Recording - Replace with your Scenario 2 link](https://your-recording-link.com/scenario2)
+- **Scenario 3 (Send While Scrolled Up):** [Watch Recording - Replace with your Scenario 3 link](https://your-recording-link.com/scenario3)
+- **Scenario 4 (Resume Auto-Scroll After Scroll Down):** [Watch Recording - Replace with your Scenario 4 link](https://your-recording-link.com/scenario4)
  
 
 ## Evaluation Criteria
